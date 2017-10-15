@@ -21,8 +21,6 @@ Navigation.defaultProps = {
   navArray: [
     { path: '/', text: 'HOME' },
     { path: '/about', text: 'ABOUT' },
-    { path: '/books', text: 'BOOKS' },
-    { path: '/gallery', text: 'GALLERY' },
     { path: '/contact', text: 'CONTACT' }
   ]
 }

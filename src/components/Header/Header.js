@@ -7,8 +7,8 @@ import { Navigation } from 'components';
 export default function Header (props) {
   return (
     <div className={head}>
-      <div className={title}>{'Мұхтар Мағауин'}</div>
-      <div className={subTitle}>{'Қазақ тарихының жазушысы'}</div>
+      <div className={title}>{'Title'}</div>
+      <div className={subTitle}>{'subtitle'}</div>
       <hr className={hrStyle}/>
       <Navigation />
     </div>
